@@ -1,0 +1,39 @@
+# Visual Studio 临时文件（必须忽略！）
+.vs/
+*.ipch
+*.db
+*.suo
+*.sdf
+*.opensdf
+*.sln
+*.qmake.stash
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+
+# 编译输出目录
+/debug/
+/release/
+/x64/
+/bin/
+/obj/
+
+# 编译生成的中间文件
+*.obj
+*.exe
+*.dll
+*.pdb
+*.ilk
+*.exp
+*.lib
+*.log
+*.tlog
+*.lastbuildstate
+
+# 其他临时文件
+*.user
+*.cache
+*.vc.db
+Thumbs.db
+
